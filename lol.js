@@ -1,3 +1,5 @@
+new ClipboardJS('.hehecopy');
+
 function bruh() {
     var input = document.getElementById("in").value;
     var out = "";
